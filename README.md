@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 👁️ QueueSight — Computer Vision & Visual Intelligence
+# worriers# 👁️ QueueSight — Computer Vision & Visual Intelligence
 
 > **QueueSight** helps visitors and staff navigate service locations (campus desks, municipal counters, clinics, and visitor hubs) and their surrounding areas. It analyzes service areas to estimate queue lengths, counter status, and walkway obstacles anonymously. It also features a **Nearby & Explore Visitor Concierge** that connects the service visit with useful places (shops, lodges, resorts, food, essentials) and multi-modal transit trip planning to tourist destinations.
 
@@ -126,6 +125,3 @@ npm run dev:server
 4. **Resolve an Obstacle**: Head to **Accessibility Alerts**, click **“Mark Resolved”** on an active alert, and watch the obstacle clear and log to Resolved History.
 5. **Explore Nearby**: Switch to **Nearby & Explore**, select categories (Shops, Lodges, Food), click pins on the interactive map, and test the **“Compare All Modes”** matrix under Transit to see bus routes, fares, and step-free travel times.
 6. **Switch to Visitor View**: Click the **“Visitor View”** pill in the top header to preview how visitors see the shortest counter recommendation on mobile.
-=======
-# worriers
->>>>>>> 5d6b4d91c53c4d92a47f0a133779c09a6454c93a
