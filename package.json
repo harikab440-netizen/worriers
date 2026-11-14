@@ -1,0 +1,26 @@
+{
+  "name": "queuesight",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QueueSight - Computer Vision & Visual Intelligence for Service Area Navigation and Visitor Concierge",
+  "scripts": {
+    "build:shared": "npm --prefix shared run build",
+    "build:server": "npm --prefix server run build",
+    "build:client": "npm --prefix client run build",
+    "build": "npm run build:shared && npm run build:server && npm run build:client",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "typecheck": "npm --prefix shared run typecheck && npm --prefix server run typecheck && npm --prefix client run typecheck"
+  },
+  "keywords": [
+    "queuesight",
+    "computer-vision",
+    "visual-intelligence",
+    "queue-estimation",
+    "accessibility",
+    "react",
+    "vite",
+    "gemini-vision"
+  ],
+  "license": "ISC"
+}
